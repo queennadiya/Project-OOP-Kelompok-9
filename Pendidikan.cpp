@@ -86,7 +86,7 @@ int main() {
         cout << "Pilih: ";
 
         int pilihan;
-        cin >> pilihan; // baris pengecekan kompleks dihapus seperti minta kamu
+        cin >> pilihan;
 
         if (pilihan == 1) {
             // tampilkan semua guru dan umur mereka
@@ -172,4 +172,5 @@ int main() {
     }
 
     return 0;
+
 }
